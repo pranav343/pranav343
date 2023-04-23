@@ -1,4 +1,4 @@
-![logo](https://github.com/pranav343/pranav343/blob/main/Pranav%20Dhiman%20(400%20%C3%97%20150%20px)%20(2560%20%C3%97%201440%20px)%20(YouTube%20Banner)%20(Banner%20(Landscape))%20(YouTube%20Banner).jpg)
+![logo](https://github.com/pranav343/pranav343/blob/main/github%20banner%20(1280%20%C3%97%20400%20px).png)
 <h1 align="center">Hi 👋, I'm Pranav Dhiman</h1>
 <h3 align="center">A passionate frontend developer from India .</h3>
 <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="GeeksforGeeks logo" align="right" width=400>
