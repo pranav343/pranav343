@@ -1,3 +1,4 @@
+![logo](https://github.com/pranav343/pranav343/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Pranav Dhiman</h1>
 <h3 align="center">A passionate frontend developer from India .</h3>
 <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="GeeksforGeeks logo" align="right" width=400>
